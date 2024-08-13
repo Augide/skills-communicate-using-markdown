@@ -4,3 +4,7 @@
 ###### On the index file
 Ultimately, this file adds some meaningful headers with critical info infra:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+# Javascript info about MyVar
+``` javascript
+var myVar = "Hello, world!";
+```
